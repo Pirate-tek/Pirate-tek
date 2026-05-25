@@ -1,84 +1,79 @@
-<!-- Sleek cybernetic robotics banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pirate-tek/Pirate-tek/main/github_banner.png" alt="Guru Prasath's Robotics Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Konichiwa+%F0%9F%91%8B;I'm+Guru+Prasath.A;Robotics+Software+Dev;ROS+%7C+C%2B%2B+%7C+Python" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there! I'm Guru Prasath.A 👋</h1>
+<!-- About Me - Compact & Professional -->
+<h3 align="center">🤖 Robotics Software Development Enthusiast</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/guru-prasath-a-bb52b3241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:guruprasath.a003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  I build intelligent autonomous systems and bridge the gap between hardware and software.
+  <br>
+  🌱 Currently diving deeper into <strong>ROS2</strong> & <strong>Computer Vision</strong>
+  <br>
+  📫 Reach me: <strong>guruprasath.a003@gmail.com</strong>
 </p>
 
+<!-- Social & Contact Badges -->
 <p align="center">
-  <strong>Robotics Software Developer & ROS 2 / Simulation Enthusiast</strong>
-</p>
-
-<p align="center">
-  <i>Passionate about bridging the gap between high-performance control logic and physical robot autonomy. I specialize in building modular fleet adapters, autonomous navigation pipelines, and modern visualization control panels for robotic systems.</i>
-</p>
-
----
-
-### 🛠️ Core Technologies & Tools
-
-<table align="center" style="border: none;">
-  <tr>
-    <td valign="top" width="25%">
-      <b>🤖 Robotics / Sim</b><br/><br/>
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Gazebo_Sim-000000?style=flat-square&logo=gazebo&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Open--RMF-FF6F00?style=flat-square&logo=open-rmf&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Nav2-3178C6?style=flat-square&logo=navigation&logoColor=white" /><br/>
-    </td>
-    <td valign="top" width="25%">
-      <b>💻 Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br/>
-    </td>
-    <td valign="top" width="25%">
-      <b>🎨 UI & HW Control</b><br/><br/>
-      <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Microcontrollers-8C8C8C?style=flat-square" /><br/>
-    </td>
-    <td valign="top" width="25%">
-      <b>🔧 Platforms & Systems</b><br/><br/>
-      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-* 🤖 **[preto_ws](https://github.com/Pirate-tek/preto_ws)**
-  * A full simulated autonomous 2-wheeled differential drive robot ("PRETO") using ROS 2 Navigation and Gazebo Harmonic. 
-  * Features custom sensor integrations, mapping, and fine-tuned local planners.
-
-* 📋 **[taskmanager_pqt](https://github.com/Pirate-tek/taskmanager_pqt)**
-  * A modular GUI controller built on PyQt designed to orchestrate and monitor multi-robot fleet tasks and ROS 2 lifecycle states.
-
-* 🏢 **[dynominion_rmf](https://github.com/Pirate-tek/dynominion_rmf)**
-  * A comprehensive fleet management integration using Open-RMF (Robotics Middleware Framework).
-  * Implements C++ EasyFullControl fleet adapters, custom coordinate mapping, and system bringup orchestrations.
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pirate-tek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Guru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirate-tek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://linkedin.com/in/guru prasath.a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:guruprasath.a003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <i>"The best way to predict the future is to build it, robot by robot."</i>
+  <!-- Robotics & Embedded -->
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
+  <br>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <!-- Tools & OS -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects (Replace with your actual Repo links)
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Autonomous Navigation Bot](https://github.com/YOUR_USERNAME/REPO_NAME)** | ROS based robot mapping & obstacle avoidance using LiDAR. | `ROS` `C++` `Rviz` |
+| **[Robotic Arm Simulator](https://github.com/YOUR_USERNAME/REPO_NAME)** | Inverse kinematics solver for a 6-DOF manipulator. | `Python` `Matplotlib` |
+| **[Line Follower PID](https://github.com/YOUR_USERNAME/REPO_NAME)** | High-speed PID control algorithm for Arduino. | `C++` `Arduino` `PID` |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+<!-- Snake Game Contribution Graph (Looks very cool) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
