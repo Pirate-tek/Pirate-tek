@@ -5,6 +5,5 @@ I love seeing code move hardware and I'm fascinated by the idea that a piece of 
 
 <p align="left">
   <img height="48" src="https://cdn.simpleicons.org/ros/22314E" />
-  <img src="https://skillicons.dev/icons?i= linux,python,cpp,rust,docker,git,bash,opencv,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,python,cpp,rust,docker,git,bash,opencv,raspberrypi,arduino" />
 </p>
-
