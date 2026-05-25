@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=GURU+PRASATH.A;Mechatronics+Engineer;ROS2+Developer;Multi-Robot+Systems;Patent+Holder+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=GURU+PRASATH.A;Mechatronics+Engineer;ROS2+Developer;/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.E-Mechatronics-FF6B35?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/B.S-Electronic%20Systems-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Patent-Indian%20Filed-1A73E8?style=for-the-badge&logo=googlepatents&logoColor=white" />
 </p>
 
 ---
