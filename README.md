@@ -4,6 +4,7 @@ I'm **Guru Prasath.A**, a Robotics Engineer from India, recently graduated in B.
 I love seeing code move hardware and I'm fascinated by the idea that a piece of metal can perceive, decide, and act autonomously.
 
 <p align="left">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://skillicons.dev/icons?i=docker,linux,python,cpp,rust,git,bash,opencv,raspberrypi,arduino" />
 </p>
 
